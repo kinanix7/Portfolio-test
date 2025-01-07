@@ -1,0 +1,20 @@
+body {
+    padding-top: 56px; 
+}
+
+section {
+    padding: 60px 0;
+}
+
+#about img {
+    max-width: 100%;
+    height: auto;
+}
+
+#projects .card {
+    margin-bottom: 20px;
+}
+
+#contact-form .form-control {
+    margin-bottom: 15px;
+}
